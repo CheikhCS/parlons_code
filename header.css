@@ -1,5 +1,9 @@
 :root{
     --couleurPrincipale:#32438A;
+    --bleuClair : #D9EDF7 ;
+    --bleuFoncé : #3F55AF ;
+    --vertClair : #449D44;
+    --bleuCiel:#4A90E2;
 }
 .active{
     color: white;
